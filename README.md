@@ -24,11 +24,11 @@ Terão também mesas redondas com profissionais das maiores empresas do setor de
 | 14:30  | Casos de uso de Data & IA na saúde	| Luis Assunção |
 | 15:00  | Análise de dados na gestão das operações hospitalares	| Rosane 
 | 15:20  | Avanços na Saúde Suplementar e as tecnologias emergentes	| dr Paulo Rebello |
-| 15:40  | Depoimento de cliente	| x |
-| 16:00  | Break	| x |
-| 16:20  | Projetos de inovação na Saúde - Dadoteca	| x |
-| 16:40  | Projetos de inovação na Saúde - DTI	| x |
-| 17:00  | Mesa redonda	| x |
+| 15:40  | Monitoramento de Linhas de Cuidado	| Grupo Fleury e DTI |
+| 16:00  | Break | Networking |
+| 16:20  | Modernizando Projetos na Saúde com Dados & IA	| Dadoteca |
+| 16:40  | Depoimento de Cliente | a confirmar |
+| 17:00  | Mesa redonda	- Benefícios de Data & AI na Saúde | a confirmar |
 | 17:40  | Encerramento	| x |
 
 
@@ -36,7 +36,7 @@ Terão também mesas redondas com profissionais das maiores empresas do setor de
 
 ## PALESTRANTES
 
-|  Palestrante |  Sobre  |
+|  Palestrantes |  Sobre  |
 | -- | -- |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/flavio_valiati.png' width='90px'></img> | **Flavio Valiati**,  Diretor de Vendas da Databricks para América Latina. Em 2021, Flavio entrou na lista da Forbes Under 30 como destaque em empreendedorismo social e terceiro setor devido ao trabalho que vem realizando no Vamos Subir. |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/marcelo_sales.png' width='90px'></img> | **Marcelo Sales**, General Manager Field Engineering LATAM na DATABRICKS, executivo experiente em tecnologia, com sólida experiência em estratégia de dados, transformação digital, estratégia de TI e consultoria, com profundo conhecimento do mercado de tecnologia latino-americano. |
