@@ -1,11 +1,7 @@
-<img src='https://github.com/Databricks-BR/health/raw/main/images/titulo.png' width='800px'></img>
-
-</br></br>
+<img src='https://github.com/Databricks-BR/health/raw/main/image/titulo.png' width='800px'></img>
 
 ## DATA E LOCAL
 
-* **Local:** XXXXXXXXXXXXXXXXX</br>
-* **Endereço:** xxxxxxxxxxx </br>
 * **Data:** 17 de junho de 2025 </br>
 * **Horário:** das 14:00h às 19:00h.
 </br></br>
