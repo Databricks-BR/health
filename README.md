@@ -22,24 +22,23 @@ Terão também mesas redondas com profissionais das maiores empresas do setor de
 | 14:00  | Abertura e Agradecimentos	| Flávio Valiati |
 | 14:10  | Panorama geral do mercado e os impactos da IA e outras tecnologias emergentes | Marcelo Sales |
 | 14:30  | Casos de uso de Data & IA na saúde	| Luis Assunção |
-| 14:00  | Análise de dados na gestão das operações hospitalares	| Rosane 
-| 14:00  | Avanços na Saúde Suplementar e as tecnologias emergentes	| dr Paulo Rebello |
-| 14:00  | Depoimento de cliente	15:40
-| 14:00  | Break	16:00
-| 14:00  | Projetos de inovação na Saúde - Dadoteca	16:20
-| 14:00  | Projetos de inovação na Saúde - DTI	16:40
-| 14:00  | Mesa redonda	17:00
-| 14:00  | Encerramento	17:40
+| 15:00  | Análise de dados na gestão das operações hospitalares	| Rosane 
+| 15:20  | Avanços na Saúde Suplementar e as tecnologias emergentes	| dr Paulo Rebello |
+| 15:40  | Depoimento de cliente	| x |
+| 16:00  | Break	| x |
+| 16:20  | Projetos de inovação na Saúde - Dadoteca	| x |
+| 16:40  | Projetos de inovação na Saúde - DTI	| x |
+| 17:00  | Mesa redonda	| x |
+| 17:40  | Encerramento	| x |
 
 
 </br></br>
 
-## O QUE ESPERAR
+## PALESTRANTES
 
-* **Fundação**: discutiremos componentes fundamentais de uma arquitetura de dados que permita a criação de modelos de AI e ML.
-* **Desafios Práticos**: Enfrente problemas reais e explore soluções criativas em GenAI e Lakehouse APPs.
-* **Networking**: Conecte-se com outros profissionais e líderes de Dados & AI.
-* **Formação de uma Comunidade**: Oportunidade de criar grupos de discussão e troca de conhecimento.
-* **Base de Conhecimento**:  Criação de materiais de apoio (códigos fonte) para alavancar novas iniciativas.
-* **Ganhe brindes** à medida que você colabora e avança no seu projeto. 
-</br></br>
+| Palestrante |  Agenda  | Palestrante(s) |
+| -- | -- | -- |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrante/flavio_valiatio.png' width='70px'></img> | Luis Assunção | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrante/luis_assuncao.png' width='70px'></img> | Luis Assunção | sobre |
+
+
