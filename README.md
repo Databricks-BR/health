@@ -36,16 +36,17 @@ Terão também mesas redondas com profissionais das maiores empresas do setor de
 
 ## PALESTRANTES
 
-|   |  Palestrante |   |
-| -- | -- | -- |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/flavio_valiati.png' width='80px'></img> | **Flavio Valiati** </br> Sr. Solutions Architect | sobre |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/marcelo_sales.png' width='80px'></img> | **Marcelo Sales** </br> Sr. Solutions Architect | sobre |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/luis_assuncao.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/rosane_ricciardi.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/paulo_rebello.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/ricardo_camilo.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/luis_assuncao.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/luis_assuncao.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
+|   |  Palestrante  |
+| -- | -- |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/flavio_valiati.png' width='90px'></img> | **Flavio Valiati**, Diretor de Vendas na DATABRICKS,  sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/marcelo_sales.png' width='90px'></img> | **Marcelo Sales**, Diretor de Field Engineer na DATABRICKS sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/luis_assuncao.png' width='90px'></img> | **Luis Assunção**, Sr. Solutions Architect na DATABRICKS, especializado em Data Analytics com mais de 20 anos de experiência em grandes empresas. Engenheiro Eletrônico com MBA em Finanças, especializado em Data & AI. |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/rosane_ricciardi.png' width='90px'></img> | **Rosane Ricciardi**  sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/paulo_rebello.png' width='90px'></img> | **dr. Paulo Rebello**  sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/ricardo_camilo.png' width='90px'></img> | **Ricardo Camilo**  sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/bruno_aragao_rocha.png' width='90px'></img> | **dr. Bruno Rocha** sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/flavia_helena.png' width='90px'></img> | **Flavia Helena**  sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/rejane_silva.png' width='90px'></img> | **Rejane Silva**  sobre |
 
 
 
