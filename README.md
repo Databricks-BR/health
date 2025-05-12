@@ -1,4 +1,4 @@
-<img src='https://github.com/Databricks-BR/health/raw/main/image/titulo.png' width='800px'></img>
+<img src='https://github.com/Databricks-BR/health/raw/main/image/titulo.png' width='900px'></img>
 
 ## DATA E LOCAL
 
@@ -36,9 +36,16 @@ Terão também mesas redondas com profissionais das maiores empresas do setor de
 
 ## PALESTRANTES
 
-| Palestrante |  Agenda  | Palestrante(s) |
+|   |  Palestrante |   |
 | -- | -- | -- |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrante/flavio_valiatio.png' width='70px'></img> | Luis Assunção | sobre |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrante/luis_assuncao.png' width='70px'></img> | Luis Assunção | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/flavio_valiati.png' width='80px'></img> | **Flavio Valiati** </br> Sr. Solutions Architect | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/marcelo_sales.png' width='80px'></img> | **Marcelo Sales** </br> Sr. Solutions Architect | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/luis_assuncao.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/rosane_ricciardi.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/paulo_rebello.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/ricardo_camilo.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/luis_assuncao.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/luis_assuncao.png' width='80px'></img> | **Luis Assunção** </br> Sr. Solutions Architect | sobre |
+
 
 
