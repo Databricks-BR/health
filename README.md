@@ -22,8 +22,8 @@ Terão também mesas redondas com profissionais das maiores empresas do setor de
 | 14:00  | Abertura e Agradecimentos	| Flávio Valiati |
 | 14:10  | Panorama geral do mercado e os impactos da IA e outras tecnologias emergentes | Marcelo Sales |
 | 14:30  | Casos de uso de Data & IA na saúde	| Luis Assunção |
-| 15:00  | Análise de dados na gestão das operações hospitalares	| Rosane 
-| 15:20  | Avanços na Saúde Suplementar e as tecnologias emergentes	| dr Paulo Rebello |
+| 15:00  | Análise de dados na gestão das operações hospitalares	| Rosane Ricciardi |
+| 15:20  | Avanços na Saúde Suplementar e as tecnologias emergentes	| Dr Paulo Rebello |
 | 15:40  | Monitoramento de Linhas de Cuidado	| Grupo Fleury e DTI |
 | 16:00  | Break | Networking |
 | 16:20  | Modernizando Projetos na Saúde com Dados & IA	| Dadoteca |
@@ -44,7 +44,7 @@ Terão também mesas redondas com profissionais das maiores empresas do setor de
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/rosane_ricciardi.png' width='90px'></img> |  **Rosane Ricciardi**, Diretora de Dados e Análises na Amil Group, lidera o desenvolvimento de capacidades inovadoras de ciência de dados para impulsionar melhorias tangíveis nos resultados de saúde e na eficiência do sistema. Sua visão estratégica e execução são dedicadas a promover vidas mais saudáveis ​​e otimizar o cenário de saúde para todas as partes interessadas. |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/paulo_rebello.png' width='90px'></img> | **Dr. Paulo Rebello Filho**, Presidente de Honra do IQCS - Instituto de Qualificação da Contratação na Saúde Suplementar. Diretor Institucional na AJA Seg.  Ex - Diretor Presidente na Agência Nacional de Saúde Suplementar - ANS. |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/ricardo_camilo.png' width='90px'></img> | **Ricardo Camilo**, Engenheiro de Dados Senior na consultoria DTI e Coordenador de Projetos na área de Saúde, apoiando as iniciativas de Data & AI do Grupo Fleury. |
-| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/bruno_aragao_rocha.png' width='90px'></img> | **dr. Bruno Rocha**, Coordenador Médico de Inovação na Grupo Fleury, Médico Radiologista formado pela Faculdade de Medicina da USP. MBA de Gestão em Medicina Diagnóstica pela FIA-CBR. Doutorado pela Faculdade de Medicina da USP com tese em Inteligência Artificial |
+| <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/bruno_aragao_rocha.png' width='90px'></img> | **Dr. Bruno Rocha**, Coordenador Médico de Inovação na Grupo Fleury, Médico Radiologista formado pela Faculdade de Medicina da USP. MBA de Gestão em Medicina Diagnóstica pela FIA-CBR. Doutorado pela Faculdade de Medicina da USP com tese em Inteligência Artificial |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/flavia_helena.png' width='90px'></img> | **Flavia Helena**, Gerente sênior Produtos Jornada do Paciente Qualidade Inovação no Grupo Fleury, responsável pela estratégia e inteligência de produtos, jornada do paciente (linhas de cuidado), qualidade - inteligência da qualidade (BI BA) e inovação. É uma atuação nacional, com reporte direto para presidência médica, técnica, negócios B2B hospitais e novos elos. |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/rejane_silva.png' width='90px'></img> | **Rejane Silva**, Líder de Data & Analytics no Grupo Fleury, com mais de 15 anos de experiência na transformação de dados em estratégia, inovação e impacto real no setor de saúde. |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/mario_keller.png' width='90px'></img> | **Mario Keller**, CEO e Fundador da Dadoteca, empresa com forte knowhow no segmento de tecnologia com business inteligence, analytics, automação, inteligência artificial e ciência de dados, pautada pela inovação constante. |
