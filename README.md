@@ -36,7 +36,7 @@ Terão também mesas redondas com profissionais das maiores empresas do setor de
 
 ## PALESTRANTES
 
-|   |  Palestrante  |
+|  Palestrante |  Sobre  |
 | -- | -- |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/flavio_valiati.png' width='90px'></img> | **Flavio Valiati**, Diretor de Vendas na DATABRICKS,  sobre |
 | <img src='https://github.com/Databricks-BR/health/raw/main/palestrantes/marcelo_sales.png' width='90px'></img> | **Marcelo Sales**, Diretor de Field Engineer na DATABRICKS sobre |
