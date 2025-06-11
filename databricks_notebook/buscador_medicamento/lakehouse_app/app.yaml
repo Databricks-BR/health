@@ -1,0 +1,11 @@
+command: [
+  "streamlit", 
+  "run",
+  "app.py"
+]
+
+env:
+  - name: "DATABRICKS_WAREHOUSE_ID"
+    valueFrom: "sql_warehouse"
+  - name: "DATABRICKS_TABLE"
+    value: "demo_health.buscador_medicamento.estoque_filial"
