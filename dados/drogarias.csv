@@ -1,0 +1,3 @@
+id_drogaria,drogaria,logradouro,bairro,cidade,uf,cep,latidute,longitude,horario_fechamento,dias_semana,link_waze
+1,Droga Raia,Rua Professor Manoelito de Ornellas 56 ,Chácara Santo Antônio,São Paulo,SP,04719-040,-23.631378,-46.710231,22:00:00,seg-sab,https://www.waze.com/pt-BR/live-map/directions?q=rua+professor+manoelito+de+ornellas+56&navigate=yes&to=-23.631378%2C-46.710231
+2,Droga Raia,Av João Carlos da Silva Borges 747,Vila Cruzeiro,São Paulo,SP,04726-001,-23.638716,-46.7119,24:00:00,dom-sab,https://www.waze.com/pt-BR/live-map/directions?q=av+joão+carlos+da+silva+borges+747&navigate=yes&to=-23.638716%2C-46.7119
