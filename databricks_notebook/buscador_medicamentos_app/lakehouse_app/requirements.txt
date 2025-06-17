@@ -1,0 +1,9 @@
+databricks-sdk
+streamlit
+pandas
+geopy
+speechrecognition
+streamlit-geolocation
+databricks-sql-connector
+streamlit-audiorec
+Unidecode
